@@ -15,4 +15,4 @@ cargo run
 
 ### Credits
 
-This project is based on https://github.com/creativcoder/clinews.
+This is based on a creativecoder project.
